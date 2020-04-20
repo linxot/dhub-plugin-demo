@@ -1,5 +1,5 @@
 [English](https://github.com/linxot/dhub-plugin-demo/blob/master/README-english.md)
-[繁体](https://github.com/linxot/dhub-plugin-demo/blob/master/README-chinese(traditional).md)
+[中文繁体](https://github.com/linxot/dhub-plugin-demo/blob/master/README-chinese(traditional).md)
 
 [TOC]
 

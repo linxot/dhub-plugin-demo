@@ -1,6 +1,6 @@
 
-[中文](https://github.com/linxot/dhub-plugin-demo/blob/master/README-chinese(simplified).md)
-[繁体](https://github.com/linxot/dhub-plugin-demo/blob/master/README-chinese(traditional).md)
+[中文简体](https://github.com/linxot/dhub-plugin-demo/blob/master/README-chinese(simplified).md)
+[中文繁体](https://github.com/linxot/dhub-plugin-demo/blob/master/README-chinese(traditional).md)
 
 
 ## Preface

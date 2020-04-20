@@ -610,8 +610,3 @@ protocolVersion  | int|是|協定版本
 
 ---
 
-外部檔案
-
-[1、運營商平臺對應說明](http://note.youdao.com/noteshare?id=34d2a1e184d651061ddd7341ed8f788f)
-
-

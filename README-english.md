@@ -1,6 +1,6 @@
 
-[中文](http://gitlab.weyatech.cn:10080/source/linxot/dhub-plugin-demo/blob/master/README-zh.md)
-[繁体](http://gitlab.weyatech.cn:10080/source/linxot/dhub-plugin-demo/blob/master/README-zh_TW.md)
+[中文](https://github.com/linxot/dhub-plugin-demo/blob/master/README-chinese(simplified).md)
+[繁体](https://github.com/linxot/dhub-plugin-demo/blob/master/README-chinese(traditional).md)
 
 
 ## Preface

@@ -1,5 +1,5 @@
-[English](http://gitlab.weyatech.cn:10080/source/linxot/dhub-plugin-demo/blob/master/README-cn.md)
-[繁体](http://gitlab.weyatech.cn:10080/source/linxot/dhub-plugin-demo/blob/master/README-zh_TW.md)
+[English](https://github.com/linxot/dhub-plugin-demo/blob/master/README-english.md)
+[繁体](https://github.com/linxot/dhub-plugin-demo/blob/master/README-chinese(traditional).md)
 
 [TOC]
 
@@ -616,9 +616,5 @@ protocolVersion  | int|是|协议版本，
 
 
 ---
-
-外部文件
-
-[1、运营商平台对应说明](http://note.youdao.com/noteshare?id=34d2a1e184d651061ddd7341ed8f788f)
 
 

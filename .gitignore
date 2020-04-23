@@ -1,2 +1,3 @@
 .idea/
 *.iml
+target/classes/com/linxot/dhub/demo/App.class

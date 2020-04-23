@@ -16,7 +16,7 @@ public class App {
     public static void main(String[] args) {
 
         //上行数据
-        String value = "C15115A5B20800D467BE3B782084BBBE9EAFAB1905FA45EB0115F18AFD27C61CAEB18B208AE7403AFF3DA77395";
+        String value = "61E4070417070B300000786D0A26";
         upload(value);
 
         //下行指令
